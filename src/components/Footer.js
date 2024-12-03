@@ -26,6 +26,10 @@ const Footer = () => {
 								target='_blank'
 								rel='noopener noreferrer'
 								className='footer-icon'
+<<<<<<< HEAD
+=======
+								rel='noopener noreferrer'
+>>>>>>> 087aa86625eeb91cb14769ae0fce1ee0ae8c62de
 							>
 								<i className={icon}></i>
 							</a>
